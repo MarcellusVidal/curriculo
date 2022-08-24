@@ -6,6 +6,6 @@ Esse é meu curriculo on line.
 
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [JavaScript]
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 🚀 Let's code! 🚀
